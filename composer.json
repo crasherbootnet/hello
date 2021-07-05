@@ -1,0 +1,19 @@
+{
+    "name": "kouamed/repo",
+    "authors": [
+        {
+            "name": "Dks",
+            "email": "dks@yopmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Dks\\Repo\\": "src/"
+        }
+    }
+}

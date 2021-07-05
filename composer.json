@@ -6,11 +6,11 @@
             "email": "dks@yopmail.com"
         }
     ],
+    "description": "My first packagist package",
     "require": {
         "php": ">=5.3.0"
     },
     "license": "mit",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Dks\\Repo\\": "src/"
